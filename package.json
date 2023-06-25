@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@adobe/pdfservices-node-sdk": "^3.3.0",
+    "adm-zip": "^0.5.10"
+  },
+  "name": "pakc",
+  "description": "The downloaded zip file contains your private key, credentials and personalized code samples. Please store your private key securely, since Adobe does not retain a copy of it. You can replace with your own public key on I/O Console.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
